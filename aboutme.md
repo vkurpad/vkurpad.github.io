@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to bookmark this site
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm Vinod Kurpad, I very often find myself in a situation where I built a little prototype and thought it would be great to share, but have never followed through on it. This is my attempt to blog about some of the intersting things I'm working on and hopefully catch your interest:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Currently I'm spending a lot of my time on NLP and content understanding
+- Interested in applying AI to things I'm passionate about, like coaching tennis
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Lets start here and write the chapter moving forward
